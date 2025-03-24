@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-sg((!%m_1+pygg@xb_n@t+o%#0(@qako6cf!-k^rxtvebnf1sr
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "@dpg-cvg8f5trie7s73bn9dhg-a.oregon-postgres.render.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "@dpg-cvg8f5trie7s73bn9dhg-a.oregon-postgres.render.com", "das-p3.onrender.com"]
 
 CORS_ALLOWED_ORIGINS = ["http://127.0.0.1"]
 CORS_ALLOW_CREDENTIALS = True
